@@ -20,4 +20,5 @@
 
 ## Результат программы
 
-![result](./изображение_2024-03-06_140529198.png)
+![image](https://github.com/esinkirill/thread_lab2/assets/78916798/0f2a9b34-7784-408a-b250-370b7064dedb)
+
